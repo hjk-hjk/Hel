@@ -14,4 +14,4 @@
 <h2>* 결과 이미지 : </h2>
 
 
-<img src="https://github.com/hjk-hjk/afetyProject2/blob/master/read_img/main1.JPG?raw=true" width=800  height=500  />
+<img src="https://github.com/hjk-hjk/Hel/blob/master/static/img/an10.PNG?raw=true" width=800  height=500  />
